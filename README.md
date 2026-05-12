@@ -20,7 +20,7 @@ This project is an interactive Power BI dashboard used to analyze sales and prof
 * Quarter filter for dynamic analysis
   
 ## Dashboard Preview
-![Dashboard](Sales Dashboard picture.JPG)
+![Dashboard](Sales%20Dashboard%20picture.JPG)
 ## Tools Used
 
 * Power BI
