@@ -18,8 +18,9 @@ This project is an interactive Power BI dashboard used to analyze sales and prof
 * Segment-wise profit distribution
 * Top customer insights
 * Quarter filter for dynamic analysis
-
-
+  
+## Dashboard Preview
+![Dashboard](Sales Dashboard picture.JPG)
 ## Tools Used
 
 * Power BI
